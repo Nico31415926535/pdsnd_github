@@ -20,4 +20,4 @@ You can get these .csv files under the "Download resources" pane in the context 
 
 ### Credits
 This project has been created as part of the Nanodegree Data Science with Python by Udacity.
-Hence, the overall idea and the data set belong to Udacity.
+Hence, the overall idea and the data set belong to Udacity.#SECTION III: ADDITIONAL CHANGES 1!
